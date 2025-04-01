@@ -1,0 +1,24 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+    <channel>
+        <title>The Two Towers</title>
+        <link>https://www.example.com</link>
+        <image>
+            <url>http://www.example.com/image3000x3000.png</url>
+            <title>The Two Towers</title>
+            <link>https://www.example.com</link>
+        </image>
+        <description>
+            The full length description for your podcast
+        </description>
+        <language>en-us</language>
+        <copyright>Me 2025</copyright>
+        <item>
+          <title>Ep 11</title>
+          <link>https://www.dropbox.com/scl/fi/r0lo2xnuglbggt7lzuee2/11-The-Palantir.mp3?rlkey=zm50llgzjq7z50fkx36qoijfi&st=o8in5g8k&dl=1</link>
+          <pubDate>Sat, 02 Jan 2020 16:00:00 PDT</pubDate>
+          <description>The full length episode 11 description</description>
+          <enclosure url="https://www.dropbox.com/scl/fi/r0lo2xnuglbggt7lzuee2/11-The-Palantir.mp3?rlkey=zm50llgzjq7z50fkx36qoijfi&st=o8in5g8k&dl=1" length="36715125" type="audio/mpeg"/>
+          <guid>https://www.dropbox.com/scl/fi/r0lo2xnuglbggt7lzuee2/11-The-Palantir.mp3?rlkey=zm50llgzjq7z50fkx36qoijfi&st=o8in5g8k&dl=1</guid>
+        </item>
+    </channel>
+</rss>
